@@ -7,7 +7,7 @@ var songLib = {
       image:
         "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/7LWBrnwJWz/size_l.jpg",
       singer:
-        "Grandmaster  Flassh, Mellle Mel, Kidd Creole, Keef Cowboy, Scorpio, and Rahiem",
+        "Grandmaster  Flassh, Mellle Mel, Kidd Creole, Keef Cowboy, Scorpiio, and Rahiem",
       Year: "1978",
       name: "The Message..."
     },
